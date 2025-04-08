@@ -87,9 +87,9 @@ const data = {
     title: "하고 싶은 말",
     text: "<b>멋사 13기 아기사자</b>로서 열정과 책임감을 가지고 활동에 임하겠습니다.<br />새로운 경험을 통해 <b>많이 배우고 성장하는 1년</b>이 되도록 노력하겠습니다.<br />앞으로 함께할 모든 분들께 <b>잘 부탁드립니다!</b> 😊",
     images: [
-      "img/word/hongkong1.jpeg",
-      "img/word/hongkong2.jpeg",
       "img/word/hongkong3.jpeg",
+      "img/word/hongkong2.jpeg",
+      "img/word/hongkong1.jpeg",
       "img/word/hongkong4.jpeg",
       "img/word/hongkong5.jpeg",
     ],
